@@ -247,6 +247,7 @@
   font-size: 44px;
   line-height: 52px;
   margin: 0 0 24px;
+  color: #fff;
 }
 
 .staff__subtitle {
@@ -255,6 +256,7 @@
   line-height: 30px;
   font-weight: 400;
   margin: 0;
+  color: #fff;
 }
 
 /* Add the CSS rule for your new class here. Make sure to place it before .card: parents should precede their children */
