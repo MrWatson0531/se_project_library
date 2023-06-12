@@ -161,11 +161,11 @@
   margin: 40px 0 60px;
 }
 
-.events__link {
+.events__more {
   color: #2f80ed;
   text-decoration: none;
 }
-.events__link:hover {
+.events__more:hover {
   color: #1f69c9;
 }
 
