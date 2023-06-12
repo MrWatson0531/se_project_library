@@ -338,7 +338,7 @@
   list-style-type: none;
   padding: 0;
   margin: 100px 0 0;
-  justify-content: row;
+  justify-content: center;
   flex-wrap: wrap;
   display: flex;
   /* Add styles */
@@ -437,7 +437,7 @@
 }
 
 .footer__column_content_social {
-  padding-right: auto;
+  padding: auto;
 }
 
 .footer__logo {
