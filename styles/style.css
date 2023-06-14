@@ -397,7 +397,7 @@
   z-index: 1;
 }
 .about__paragraph {
-  margin: 0, 0, 32px;
+  margin-bottom: 32px;
 }
 
 .about__paragraph:nth-of-type(3n) {
